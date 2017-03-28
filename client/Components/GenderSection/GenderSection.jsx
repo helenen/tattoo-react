@@ -1,5 +1,5 @@
 import React from 'react';
-import GenderSection from "./GenderSection.scss";
+import"./GenderSection.scss";
 
 
 
