@@ -7,8 +7,8 @@ class MiddleSection extends React.Component {
     return (
        <div className="MiddleSection">
 
-           <div className="container">
-               <h1>Hello world</h1>
+           <div className="container-fluid col-lg-12">
+               <h1 className="title col-lg-4  col-md-4">Hello world</h1>
            </div>
 
       </div>
