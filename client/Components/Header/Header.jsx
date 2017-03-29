@@ -5,8 +5,7 @@ import "./Header.scss"
   render() {
     return (
      <div className="Header">
-       <div className="container-fluid"></div>
-        <h1>Hello World</h1>
+       
       </div>
     );
   }

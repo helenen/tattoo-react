@@ -11,13 +11,13 @@ import MiddleSection from "./MiddleSection/MiddleSection.jsx";
 class App extends React.Component {
   render() {
     return (
-     <div >
-       <Header/>
-       <Carousel/>
-       <FirstSection/>
-       <MiddleSection/>
-       <GridPictures/>
-       <GenderSection/>
+     <div className="App">
+       <Header />
+       {/*<Carousel />*/}
+       <FirstSection />
+       <MiddleSection />
+       <GridPictures />
+       <GenderSection />
 
 
       </div>

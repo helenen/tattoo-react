@@ -1,6 +1,3 @@
-// import React, { Component } from 'react';
-// import './carousel.scss';
-// import one from'./img/accueil-one.jpeg';
 // import two from'./img/accueil-two.jpeg';
 // import three from'./img/accueil-three.jpeg';
 // import four from'./img/accueil-four.jpeg';
@@ -68,4 +65,4 @@
 //     );
 //   }
 // }
-// // 
+// //
